@@ -1,1 +1,2 @@
 # HarroldVentayenBoxingGame
+This is a game that shows our understanding of if, else if, and different game scenarios. We use conditionals to discern if there is a knockout, and display the gameplay in the VSCode terminal.
